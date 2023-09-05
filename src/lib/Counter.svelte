@@ -5,6 +5,7 @@
   }
 </script>
 
+<p>You clicked the button {count} times</p>
 <button on:click={increment}>
-  count is {count}
+  +1
 </button>
