@@ -9,3 +9,12 @@
   <Footer/>
   <ComingSoon/>
 </main>
+
+<style lang="scss">
+  main {
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+</style>
