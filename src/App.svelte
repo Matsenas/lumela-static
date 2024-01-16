@@ -7,7 +7,7 @@
 <main>
   <Navbar/>
   <Hero/>
-  <Footer/>
+  <!-- <Footer/> -->
 </main>
 
 <style lang="scss">

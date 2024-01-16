@@ -1,7 +1,7 @@
 <div id="hero-group">
     <!-- svelte-ignore a11y-click-events-have-key-events -->
     <!-- svelte-ignore a11y-no-static-element-interactions -->
-    <h1 id="tagline">Seamless access to web content</h1>
+    <h1 id="tagline">Seamless access to content online</h1>
     <p>Coming soon...</p>
 </div>
 
