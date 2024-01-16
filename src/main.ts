@@ -1,8 +1,16 @@
 import './app.css'
 import App from './App.svelte'
 
-const app = new App({
-  target: document.getElementById('app'),
-})
+let app;
+
+const appElement = document.getElementById('app');
+
+if (appElement) {
+  const app = new App({
+    target: appElement,
+  });
+} else {
+  console.error('Could not find "app" div');
+}
 
 export default app

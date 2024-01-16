@@ -4,8 +4,6 @@
 
     const searchParams = new URLSearchParams(window.location.search);
 
-
-
     let jsConfetti = new JSConfetti()
 
     function startConfetti() {
@@ -15,7 +13,7 @@
             });
         } else {
             jsConfetti.addConfetti({
-                emojis: ["🐈"]
+                emojis: ["⚪️"]
             });
         }
   }
@@ -29,8 +27,7 @@
     </div>
     <h1 id="title">Lumela</h1>
     <h2 id="tagline" class="unselectable">
-        <p>Experimental design &</p>
-        <p>development house</p>
+        <p>Building ad- and subscription-free internet</p>
     </h2>
 </div>
 

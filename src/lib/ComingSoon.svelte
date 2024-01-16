@@ -26,8 +26,6 @@
         );
         -webkit-background-clip: text;
         background-clip: text;
-        -webkit-text-fill-color: transparent;
-        text-fill-color: transparent;
         background-size: 500% auto;
         animation: 
         fadein 5s
