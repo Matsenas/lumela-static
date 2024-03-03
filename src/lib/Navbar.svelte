@@ -1,5 +1,5 @@
 <script lang="ts">
-    import lumelaLogo from '/lumela-long.svg'
+    import lumelaLogo from '/firn-long.svg'
     import JSConfetti from 'js-confetti'
 
     const searchParams = new URLSearchParams(window.location.search);

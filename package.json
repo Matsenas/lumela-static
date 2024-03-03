@@ -20,6 +20,7 @@
     "vite": "^4.4.5"
   },
   "dependencies": {
-    "js-confetti": "^0.11.0"
+    "js-confetti": "^0.11.0",
+    "svelte-routing": "^2.12.0"
   }
 }
